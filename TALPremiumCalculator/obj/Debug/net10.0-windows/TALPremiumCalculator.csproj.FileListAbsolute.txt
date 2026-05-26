@@ -1,0 +1,14 @@
+C:\Users\swjosyul\Desktop\TALPremiumCalculator\bin\Debug\net10.0-windows\TALPremiumCalculator.exe
+C:\Users\swjosyul\Desktop\TALPremiumCalculator\bin\Debug\net10.0-windows\TALPremiumCalculator.deps.json
+C:\Users\swjosyul\Desktop\TALPremiumCalculator\bin\Debug\net10.0-windows\TALPremiumCalculator.runtimeconfig.json
+C:\Users\swjosyul\Desktop\TALPremiumCalculator\bin\Debug\net10.0-windows\TALPremiumCalculator.dll
+C:\Users\swjosyul\Desktop\TALPremiumCalculator\bin\Debug\net10.0-windows\TALPremiumCalculator.pdb
+C:\Users\swjosyul\Desktop\TALPremiumCalculator\obj\Debug\net10.0-windows\TALPremiumCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swjosyul\Desktop\TALPremiumCalculator\obj\Debug\net10.0-windows\TALPremiumCalculator.AssemblyInfoInputs.cache
+C:\Users\swjosyul\Desktop\TALPremiumCalculator\obj\Debug\net10.0-windows\TALPremiumCalculator.AssemblyInfo.cs
+C:\Users\swjosyul\Desktop\TALPremiumCalculator\obj\Debug\net10.0-windows\TALPremiumCalculator.csproj.CoreCompileInputs.cache
+C:\Users\swjosyul\Desktop\TALPremiumCalculator\obj\Debug\net10.0-windows\TALPremiumCalculator.dll
+C:\Users\swjosyul\Desktop\TALPremiumCalculator\obj\Debug\net10.0-windows\refint\TALPremiumCalculator.dll
+C:\Users\swjosyul\Desktop\TALPremiumCalculator\obj\Debug\net10.0-windows\TALPremiumCalculator.pdb
+C:\Users\swjosyul\Desktop\TALPremiumCalculator\obj\Debug\net10.0-windows\TALPremiumCalculator.genruntimeconfig.cache
+C:\Users\swjosyul\Desktop\TALPremiumCalculator\obj\Debug\net10.0-windows\ref\TALPremiumCalculator.dll
